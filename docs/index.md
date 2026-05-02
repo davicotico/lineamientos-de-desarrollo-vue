@@ -4,19 +4,19 @@ layout: home
 
 hero:
   name: "Lineamientos Vue"
-  text: "Lineamientos de Desarrollo de Aplicaciones Vue"
-  tagline: My great project tagline
+  text: "Lineamientos de Desarrollo para Aplicaciones Vue.js"
+  tagline: y buenas prácticas de programación
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Empezar
+      link: /introduccion
     - theme: alt
       text: API Examples
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: CC BY
+    details: Este documento es libre bajo licencia Creative Commons BY 4.0
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature C

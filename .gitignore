@@ -1,3 +1,4 @@
 node_modules
 .virepress/dist
 .vitepress/cache
+borrador.md

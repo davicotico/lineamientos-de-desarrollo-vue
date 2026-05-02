@@ -1,2 +1,3 @@
-# lineamientos-de-desarrollo-vue
-Lineamientos de Desarrollo de Aplicaciones Vue
+# Lineamientos Vue
+
+Lineamientos de Desarrollo para Aplicaciones Vue

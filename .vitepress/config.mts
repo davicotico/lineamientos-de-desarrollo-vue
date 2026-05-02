@@ -5,7 +5,7 @@ export default defineConfig({
   srcDir: "docs",
   
   title: "Lineamientos Vue",
-  description: "Lineamientos de Desarrollo de Aplicaciones Vue",
+  description: "Lineamientos de Desarrollo para Aplicaciones Vue",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -17,6 +17,8 @@ export default defineConfig({
       {
         text: 'Examples',
         items: [
+          { text: 'Introducción', link: '/introduccion' },
+          { text: 'Componentes', link: '/componentes' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]

@@ -1,0 +1,8 @@
+# Introduccion
+
+En entornos de desarrollo colaborativo, la heterogeneidad de estilos y prácticas de codificación representa uno de los principales obstáculos para el mantenimiento y escalabilidad de las aplicaciones. Cuando cada integrante del equipo escribe código Vue siguiendo sus propias convenciones —o ninguna—, el código fuente se vuelve rápidamente caótico: mezcla de nomenclaturas, estructuras de componentes dispares, lógica dispersa y patrones inconsistentes. Esta falta de uniformidad no solo dificulta la legibilidad, sino que incrementa exponencialmente el tiempo necesario para depurar errores, incorporar nuevas funcionalidades o reasignar tareas entre desarrolladores.
+
+Establecer lineamientos claros y compartidos para el desarrollo con Vue es una inversión directa en la calidad y eficiencia del equipo. Un código ordenado —donde cada archivo, componente, prop, evento y estado sigue una misma lógica estructural y sintáctica— permite identificar rápidamente qué hace cada parte del sistema, anticipar efectos secundarios y reducir la deuda técnica acumulada por “parches” apresurados. La experiencia muestra que dedicar esfuerzo inicial a la definición de estándares se recupera con creces en horas de debug evitadas y en la fluidez con la que nuevos miembros se incorporan al proyecto.
+
+El presente documento recopila lineamientos esenciales para el desarrollo de aplicaciones Vue, con el propósito de unificar criterios y fomentar un código autodocumentado, predecible y fácil de extender. Adoptar estos lineamientos significa adoptar un lenguaje común que haga más ágil el desarrollo de software, ese lenguaje se llama **orden**.
+
