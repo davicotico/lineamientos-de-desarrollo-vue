@@ -2,9 +2,10 @@
 
 ## El nombre de los componentes
 
-* Siguiendo los lineamientos de Vue.js, el nombre de los archivos es CamelCase con más de una palabra.
-* Usar los componentes sin tag de cierre (`<algun-componente />`) si el componente no tiene slots.
-* Usar los componentes con tag de cierre (`<algun-componente></algun-componente>`) si el componente tiene slots, incluso si no se está usando slot alguno.
+* Usa PascalCase para el nombre de los archivos .vue y nombra el componente con más de una palabra.
+* En el template usa el componente con kebab-case.
+* Usa los componentes sin tag de cierre (`<algun-componente />`) si el componente no tiene slots.
+* Usa los componentes con tag de cierre (`<algun-componente></algun-componente>`) si el componente tiene slots, incluso si no se está usando slot alguno.
 
 ## Crear *wrappers* de componentes comunes
 
